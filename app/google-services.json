@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "598660618684",
+    "firebase_url": "https://bumin-rocketchat.firebaseio.com",
+    "project_id": "bumin-rocketchat",
+    "storage_bucket": "bumin-rocketchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598660618684:android:ecb29f8a09fb5f343bb3b9",
+        "android_client_info": {
+          "package_name": "kr.co.bumin.chat.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598660618684-f02ekojbupmjqv65vpfrtd0mb8ttvu6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2TDLpwYd18A6G5r_t7Tgy-Jg6GV3W1sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598660618684-f02ekojbupmjqv65vpfrtd0mb8ttvu6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598660618684:android:dae936bae32b00053bb3b9",
+        "android_client_info": {
+          "package_name": "kr.co.bumin.chat.android.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598660618684-f02ekojbupmjqv65vpfrtd0mb8ttvu6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2TDLpwYd18A6G5r_t7Tgy-Jg6GV3W1sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598660618684-f02ekojbupmjqv65vpfrtd0mb8ttvu6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
